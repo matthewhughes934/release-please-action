@@ -29,7 +29,7 @@
   "homepage": "https://github.com/bcoe/release-please-action#readme",
   "dependencies": {
     "@actions/core": "^1.10.0",
-    "release-please": "^16.10.0"
+    "release-please": "matthewhughes934/release-please#1ae4ab72dbe2b1c2d6f8d830f294fae3bcf60691"
   },
   "devDependencies": {
     "@types/mocha": "^9.0.0",
